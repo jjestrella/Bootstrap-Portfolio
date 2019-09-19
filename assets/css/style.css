@@ -1,0 +1,75 @@
+
+h2 {
+    background-color: teal;
+    color: white;
+    font-size: 40px;
+    margin-left: 70px;
+    padding: 20px;
+    }
+
+p {
+    float: right;
+   
+}
+
+.media {
+    margin-left: 20px;
+}
+
+img {
+    padding: 5px;
+    box-shadow: 0 4px 8px 0;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    margin: 30px;
+    
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px;
+}
+
+.jjbio {
+    float: left;
+    width: 200px;
+    margin-top: 0px;
+    overflow: auto;
+
+}
+.container {
+    margin: 90px 450px;
+
+}
+
+.jumbotron {
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    width: 70%;
+}
+
+.form-group {
+        max-width: 960px;
+        clear: both;
+    }
+
+.btn {
+        max-width: 960px;
+        margin: 0 auto;
+        clear: body;
+        background-color: green;
+        margin:20px 0px;
+        
+    }
+
+.card-footer {
+        top: 90%;
+        left: 0%;
+        width: 100%;
+        background-color: teal;
+        color: white;
+        position: fixed;
+        border-top: 4px solid lime;
+        text-align: center;
+        padding: 35px;
+    }
